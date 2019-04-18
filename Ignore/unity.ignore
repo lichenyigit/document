@@ -1,0 +1,13 @@
+.idea
+.iml
+*.iml
+*.log
+*.apk
+*.sln
+*.csproj
+*.meta
+Library
+obj
+Packages
+Temp
+Logs
