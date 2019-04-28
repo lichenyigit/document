@@ -12,3 +12,4 @@ Packages
 *.apk
 *.sln
 *.csproj
+.DS_Store
