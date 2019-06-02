@@ -1,5 +1,6 @@
 # document
 
+```
 [core]
 	repositoryformatversion = 0
 	filemode = false
@@ -17,4 +18,5 @@
 	remote = origin
 	merge = refs/heads/master
   
+```
   
