@@ -20,3 +20,21 @@
   
 ```
   
+# unity ignore
+```
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+Packages
+.idea
+.iml
+*.iml
+*.log
+*.apk
+*.sln
+*.csproj
+.DS_Store
+```
