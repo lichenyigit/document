@@ -33,6 +33,7 @@ Packages
 .iml
 *.iml
 *.log
+.vs
 *.apk
 *.sln
 *.csproj
