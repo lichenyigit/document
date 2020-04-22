@@ -28,6 +28,7 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+Assets/Plugins/Editor
 .idea
 .iml
 *.iml
