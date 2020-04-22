@@ -28,7 +28,6 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-Packages
 .idea
 .iml
 *.iml
