@@ -9,7 +9,7 @@
 	symlinks = false
 	ignorecase = true
 [user]
-	name = lichenyi.gitee
+	name = ChanYeeLi
 	email = lichenyiwin@outlook.com
 [remote "origin"]
 	url = https://github.com/lichenyigit/test.git
