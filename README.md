@@ -28,6 +28,7 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+.vs/
 Packages
 Assets/Plugins/Editor
 .idea
