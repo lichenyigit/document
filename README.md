@@ -28,11 +28,16 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+Packages
 Assets/Plugins/Editor
 .idea
 .iml
 *.iml
 *.log
+*.apk
+*.sln
+*.csproj
+.DS_Store
 ```
 
 # java ignore
