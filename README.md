@@ -28,17 +28,28 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-.vs/
-Packages
-Assets/Plugins/Editor
+Assets/Plugins
+Assets/Firebase
+Assets/Editor Default Resources
+Assets/ExternalDependencyManager
+Assets/Parse
+Assets/Photon
+Assets/FacebookSDK
+Assets/Plugins
+exe/
+Assets/GoogleMobileAds
+Assets/PlayServicesResolver
+JSON/
 .idea
 .iml
 *.iml
 *.log
 *.apk
+*.aab
 *.sln
 *.csproj
 .DS_Store
+.vs
 ```
 
 # java ignore
