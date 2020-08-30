@@ -37,9 +37,11 @@ Assets/Photon
 Assets/FacebookSDK
 Assets/Plugins
 exe/
+html/
 Assets/GoogleMobileAds
 Assets/PlayServicesResolver
 JSON/
+*.zip
 .idea
 .iml
 *.iml
