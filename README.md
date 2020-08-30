@@ -36,8 +36,8 @@ Assets/Parse
 Assets/Photon
 Assets/FacebookSDK
 Assets/Plugins
-exe/
-html/
+[Ee]xe/
+[Hh]tml/
 Assets/GoogleMobileAds
 Assets/PlayServicesResolver
 JSON/
