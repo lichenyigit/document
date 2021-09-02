@@ -52,6 +52,31 @@ JSON/
 *.csproj
 .DS_Store
 .vs
+.vsconfig
+```
+
+# unity ignore1
+```
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Ee]xe/
+[Hh]tml/
+*.zip
+.idea
+.iml
+*.iml
+*.log
+*.apk
+*.aab
+*.sln
+*.csproj
+.DS_Store
+.vs
+.vsconfig
 ```
 
 # java ignore
