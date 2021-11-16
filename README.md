@@ -20,6 +20,18 @@
   
 ```
   
+#本地创建远程仓库并推送
+```
+git init
+git config --global user.email "lichenyi@binttech.com"
+git config --global user.name "lichenyi"
+git remote add origin http://172.22.65.44/lichenyi/10-7course.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+```
+  
+  
 # unity ignore
 ```
 [Ll]ibrary/
