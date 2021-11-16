@@ -20,7 +20,7 @@
   
 ```
   
-#本地创建远程仓库并推送
+# 本地创建远程仓库并推送
 ```
 git init
 git config --global user.email "lichenyi@binttech.com"
