@@ -6,6 +6,7 @@ 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
 # git master branch 
 
 ```
+master
 [core]
 	repositoryformatversion = 0
 	filemode = false
@@ -24,6 +25,28 @@ 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
 	merge = refs/heads/master
   
 ```
+
+```
+main
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = ChanYeeLi
+	email = lichenyiwin@outlook.com
+[remote "origin"]
+	url = https://github.com/lichenyigit/test.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+  
+```
+
   
 # 本地创建远程仓库并推送
 ```
